@@ -12,3 +12,13 @@ Now, start a Jupyter Notebook using any platform that you are comfortable with a
   <li>Import the Numpy library as np.</li>
   <li>Print the following the statement: Hello Capstone Project Course!</li>
 </ol>
+
+#### Week 2
+Graded quiz
+
+#### Week 3
+
+For this assignment, you will be required to explore and cluster the neighborhoods in Toronto (<i> Segmenting and Clustering </i>).
+
+
+
