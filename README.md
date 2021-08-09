@@ -24,3 +24,6 @@ For this assignment, you will be required to explore and cluster the neighborhoo
 Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
 Introduction/Business Problem section and Data section 
 
+#### Week 5
+Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 2)
+
